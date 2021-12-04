@@ -1,0 +1,6 @@
+Git status = para ver as pastas :)
+Git add . = para adicionar a nova pasta :)
+ou Git add -A para adicionar todos os arquivos :)
+Git commit -m " digitar um comentário " :)
+Git push origin main
+
